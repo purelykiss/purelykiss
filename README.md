@@ -2,7 +2,7 @@
 - 👀 I’m interested in GameDeveloping
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : You can contact me with Email.
+- 📫 How to reach me : endolfinpump@gmail.com
 
 <!---
 purelykiss/purelykiss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
