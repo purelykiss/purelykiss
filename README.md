@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @purelykiss
 - 👀 I’m interested in GameDeveloping
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning Godot and Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : endolfinpump@gmail.com
 
