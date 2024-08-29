@@ -4,7 +4,8 @@
 </div>
 
 <div align=center>
-# 👋HI!!
+백엔드 등 개발자를 지망하고 있습니다.
+배운 내용을 바탕으로 취미삼아 게임도 개발중입니다.
 
  Name : 오범준<br>
  Email : ov13@naver.com<br>
@@ -30,14 +31,18 @@
 <br>
 <img src="https://img.shields.io/badge/github-purple?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
   
 ---
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purelykiss&exclude_repo=github-readme-stats,purelykiss.github.io)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=purelykiss&show_icons=true&theme=cobalt)<br>
   
+---
+
+</div>
+
+<div>
+포트폴리오<br/>
 ---
 
 </div>
