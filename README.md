@@ -17,7 +17,6 @@
 
 `Java 11` `Spring` `Ajax` `JQuery` `JavaScript` `Oracle 21C XE`   
 
-- **담당역할 :** 프로젝트 전반(기획, 디자인, 백엔드, 프론트엔드)
 - **GitHub Repository :** https://github.com/purelykiss/ShoppingMall
 <!-- - **Youtube 시연영상 :** [https://youtu.be/web-bank](https://youtu.be/mZ-2aBMEeJ8?si=k5JrsVj4Ytbm-Hjm) -->
 - 쇼핑몰 업체에서 등록한 의류를 소비자가 구매할 수 있는 쇼핑몰
