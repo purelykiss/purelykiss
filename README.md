@@ -34,7 +34,7 @@
 
 - **GitHub Repository :** https://github.com/purelykiss/EmailDotCom
 <!-- - **Youtube 시연영상 :** [youtu.be/library](https://youtu.be/JXnixPSEYhg?si=IB3QTVfux8zK9eAU) -->
-- 이메일 서비스의 초기모델
+- 자바 콘솔로 구현한 이메일 송수신 서비스
 - **세부기능**
     - MVC 패턴 적용
     - 사용자의 키보드 입력을 통한 이메일 조회/검색 및 보내기 등
