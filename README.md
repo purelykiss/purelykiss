@@ -12,26 +12,19 @@
 
 ## **프 로 젝 트 이 력**
 
-### **쇼핑몰 (개인)**
+### **의류 쇼핑몰 (개인)**
 2024.06.17~07.03
 
 `Java 11` `Spring` `Ajax` `JQuery` `JavaScript` `Oracle 21C XE`   
 
 - **담당역할 :** 프로젝트 전반(기획, 디자인, 백엔드, 프론트엔드)
-- **GitHub Repository :** https://github.com/water4360/web-Hari-Bank
-- **Youtube 시연영상 :** [https://youtu.be/web-bank](https://youtu.be/mZ-2aBMEeJ8?si=k5JrsVj4Ytbm-Hjm)
-- 보유 계좌조회 및 이체가 가능한 온라인 뱅킹서비스
+- **GitHub Repository :** https://github.com/purelykiss/ShoppingMall
+<!-- - **Youtube 시연영상 :** [https://youtu.be/web-bank](https://youtu.be/mZ-2aBMEeJ8?si=k5JrsVj4Ytbm-Hjm) -->
+- 쇼핑몰 업체에서 등록한 의류를 소비자가 구매할 수 있는 쇼핑몰
 - **세부기능**
-    - 회원가입 및 계좌 개설
-    - Transaction 처리를 통한 당행 계좌조회/이체 및 오픈뱅킹
-    
-- **문제**
-    
-    DAO에서 PreparedStatement를 사용할 때 ‘부적합한 열 인덱스’ 에러의 잦은 발생
-    
-- **해결**
-    
-    쿼리의 인덱스를 정할 때 숫자가 아닌 idx 변수를 이용하여 중간에 구문에 변동이 생기더라도 변화에 민감하지 않게 했습니다.
+    - 회원가입 및 물품 구매
+    - Transaction 처리를 통한 물품 구매
+    - 페이징을 이용한 물품 목록
   
 <hr>
 
@@ -40,13 +33,13 @@
 
 `Java11` `JDBC` `Oracle 21C XE`
 
-- **GitHub Repository :** [Github-Library](https://github.com/water4360/Library.git)
-- **Youtube 시연영상 :** [youtu.be/library](https://youtu.be/JXnixPSEYhg?si=IB3QTVfux8zK9eAU)
-- 도서관 웹페이지의 초기모델
+- **GitHub Repository :** https://github.com/purelykiss/EmailDotCom
+<!-- - **Youtube 시연영상 :** [youtu.be/library](https://youtu.be/JXnixPSEYhg?si=IB3QTVfux8zK9eAU) -->
+- 이메일 서비스의 초기모델
 - **세부기능**
     - MVC 패턴 적용
-    - 사용자의 키보드 입력을 통한 도서 조회/검색, 대여/반납, 등록/수정/삭제 등
-    - 공지사항 및 한줄형 게시글 등록
+    - 사용자의 키보드 입력을 통한 이메일 조회/검색 및 보내기 등
+    - 페이징을 이용한 이메일 목록
 
 <hr/>
 
