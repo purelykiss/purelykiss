@@ -70,7 +70,7 @@
 ### 게임 개발 프로젝트
 | 프로젝트명 | 기간 | 인원 | 개발환경 | 내용 |
 |---|---|---|---|---|
-| [**Godot을 이용한 Barcrash**](https://github.com/purelykiss/BarClash)<br>-2D 횡스크롤<br>액션 게임 | 2023.10.13<br>~<br>2024.09.14 | 1명 | Godot v4.1.1.stable.mono.official[bd6af8e0e],<br>Visual Studio 2020,<br>C#(net6.0) | ![Image](https://github.com/user-attachments/assets/6218ba59-0a2c-4bab-a8d1-9adb2a0c8b26)<br><ul><li>**FSM 패턴**을 이용한 캐릭터 및 몬스터 AI 구현</li><li>**Godot 세이더**를 이용한 피격 및 스킬 이펙트 구현</li><li>타일맵을 활용한 맵 제작 및 충돌 처리</li><li>카메라의 캐릭터 추적 및 범위 제한 구현</li><li>게임 일시정지 및 메뉴 UI 구현</li><li>전체 볼륨, BGM, 효과음으로 분리된 음량 조절 구현</li><li>**커스텀 키 설정** 구현</li></ul> |
+| [**Godot을 이용한 Barcrash**](https://github.com/purelykiss/BarClash)<br>-2D 횡스크롤<br>액션 게임 | 2023.10.13<br>~<br>2024.09.14 | 1명 | Godot v4.1.1.stable.mono,<br>Visual Studio 2020,<br>C#(net6.0) | ![Image](https://github.com/user-attachments/assets/6218ba59-0a2c-4bab-a8d1-9adb2a0c8b26)<br><ul><li>**FSM 패턴**을 이용한 캐릭터 및 몬스터 AI 구현</li><li>**Godot 세이더**를 이용한 피격 및 스킬 이펙트 구현</li><li>타일맵을 활용한 맵 제작 및 충돌 처리</li><li>카메라의 캐릭터 추적 및 범위 제한 구현</li><li>게임 일시정지 및 메뉴 UI 구현</li><li>전체 볼륨, BGM, 효과음으로 분리된 음량 조절 구현</li><li>**커스텀 키 설정** 구현</li></ul> |
 | **Unity를 이용한<br>Project Berserker**<br>-2D 횡스크롤<br>액션 게임 | 2022.04.27<br>~<br>2023.09.05 | 1명 | Unity v2020.3.11f1,<br>Visual Studio 2020,<br>C# 8.0 | ![Image](https://github.com/user-attachments/assets/6b705c79-9cb5-4b31-a571-0d90f2308996)<br><ul><li>**FSM 패턴**을 이용한 캐릭터 및 몬스터 AI 구현<ul><li>잡기, QTE, 상호작용 구현</li></ul></li><li>**세이더 파이프라인 (URP)** 을 이용한 피격 및 스킬 이펙트 구현</li><li>**타일맵**을 활용한 맵 제작</li><li>**Raycast**를 이용한 충돌처리</li><li>**Cinematic Camera**카메라의 캐릭터 추적 구현</li><li>**Timeline**을 이용한 시나리오 전개 구현</li><li>누적 데미지 기록 구현</li></ul> |
 <!-- end of table -->
 <br>&nbsp;
