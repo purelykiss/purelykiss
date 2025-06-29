@@ -86,7 +86,10 @@
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purelykiss&exclude_repo=github-readme-stats,purelykiss.github.io)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=purelykiss&show_icons=true&theme=cobalt)<br>
   
+![ViewCounter](https://komarev.com/ghpvc/?username=purelykiss&color=blue&style=for-the-badge)
+
 <hr/>
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&section=footer)
 </div>
